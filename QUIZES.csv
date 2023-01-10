@@ -1,0 +1,195 @@
+1.Escape Operators
+2.Area And Perimeter Of A Square And Rectangle
+3.To Find Out Biggest Number Out Of Three Numbers
+4.Multiplication Tables
+5.Even Numbers Upto Range
+6.Average Of Odd Numbers Below A Range
+7.Net Salary Of An Employee
+8.Result Of A Student
+9.Prime Number
+10.Perfect Number
+11.Armstrong Number
+12.Palindrome Number
+13.Vowel Or Not
+14.Sum Of Digits Of A Number
+15.Four Function Calculator
+16.Nested For Loops
+17.Asterisks Graph
+18.Swapping Of Two Integers
+19.Floyd'S Triangle
+20.Fibonacci Series
+21.Electricity Series
+22.Prime Numbers Below A Range
+23.Factorial Of A Number
+24.Ascii Values
+25.Nested For Loops Arch With Characters
+26.Local Variables
+27.Global Variables
+28.Static Variables
+29.To Check Leap Year And To Print Leap Years Form 1901 To 2100
+30.Generating Numbers In The Combination Of Given Numbers
+31.Prime Factors Of A Number
+32.Pyramid Of Numbers
+33.Condensing A Number Into Single Digit
+34.Calculator
+35.Conversion Of Decimal Number Into Binary Number
+36.Conversion Of Binary Into Decimal Number
+37.Checking If Given Number Is Binary Number Or Not
+38.Conversion Of Decimal Number Into Octal Number
+39.Converting Series Of Numbers Into A Single Number
+40.Determinant Of A Matrix
+41.Inversion Of A Matrix
+42.Tautologies And Contradictions
+43.Pascal'S Triangle
+44.Printing Elements In Reverse Order
+45.Biggest And Lowest Elements Of An Array
+46.Swapping Of Two Arrays
+47.Shifting An Element One Location Leftside
+48.Shifting Two Elements Curcularly Rightside
+49.Deletion Of Duplicate Elements
+50.Numbers In An Ordered Form
+51.Twin Prime Numbers Below A Range
+52.Fibonacci Series Using Arrays
+53.Double Dimensional Arrays
+54.Addition Of Two Matrices
+55.Sum Of Diagonal Elements
+56.Matrix Multiplication
+57.Transposing Of A Matrix
+58.Upper Right And Lower Left Triangles Of A Matrix
+59.Largest And Lowest Values Of A Matrix
+60.Sorting All Elements Of A Matrix
+61.Row Wise Sorting Of A Matrix
+62.Triple Dimensional Array
+63.Multiplication Of Any Number Of Matrices
+64.Function With No Arguments And With No Return Value
+65.Function With Arguments And With No Return Value
+66.Function With Arguments With Return Value
+67.Strong Number
+68.Ncr Factor
+69.Lcm And Gcd Of Numbers
+70.Power Value
+71.Recursive Function To Find Factorial
+72.Recursive Function To Print Fibonacci Series
+73.Macros
+74.Area And Circumference Of A Circle Using Macros
+75.Ternary Operator And Nested Macros
+76.Pointers Case 1
+77.Pointers Case 2
+78.Pointers With Array
+79.Biggest And Lowest Values Using Pointers
+80.Pointers With Function
+81.Checking Given Number Is Existing Or Not And Its Position
+82.Biggest Number And Number Of Times It Occured
+83.Counting Numbers Of Even Numbers And Odd Numbers
+84.Structures
+85.Structures With Array
+86.Structures With Structures
+87.Pointed Structures Case 1
+88.Pointed Structures With Functions
+89.Pointed Structures Case 2
+90.Gerc And Putc
+91.Merging Of Two Files
+"92.Counting Tabs,Numbers Of Lines,Charactess And Blank Spaces In A File"
+93.Fprintf And Fscanf
+94.Online Examination
+95.Correctin Of Answers
+96.Database Of Student Information
+97.Menu Driven Program
+98.Selection Sort
+99.Sorting One Array Into Two Arrays
+100.Bubble Sort
+101.Insertion Sort
+102.Quick Sort
+103.Linear Search
+104.Binary Search
+105.Checking Status Of A Character
+106.String Functions Case 1
+107.String Functions Case 2
+108.Sorting Of Strings
+109.Palindrome String
+110.Acromatic String
+111.Conversion Of Integers Into Words
+112.Counting Different Characters
+113.Swapping Of Two String
+114.Returning Substring Using Pointers
+115.Reversing Recursively From Starting Location To Ending Location
+116.Retutning Starting Locations Of A Subsrting Using Pointers
+117.Returning Starting Location Of A Substring In A String
+"118.Counting Words,Largest Word And Smallest Word In A String"
+119.Concatenation Of Two String Into Third Srting Using Pointers
+120.Character Graph Using Pointers
+121.Combinations
+122.Rain Drop Character
+123.Sparse Matrix
+124.After Addition Representing As Sparse Matrix
+125.Addition Of Sparse Matrices
+126.Different Line Styles
+127.Different Fill Styles
+128.Different Fonts
+129.Different Colors
+130.Different Shapes
+131.Ellipse And Arc
+"132.Polygon,Spectagon, And Octagon"
+133.Number Of Lines
+134.Lines Design
+135.Getpixel And Putpixel
+136.Date And Time
+137.Addition Of Two Times
+138.Different Circles
+139.Queues With Arrays
+140.Sorting Of A Queue
+141.Circular Queues With Arrays
+142.Linked Queues
+143.Circularly Linked Queues
+144.Counting Numbers Of Nodes In A Circularly Linked Queues
+145.Double Ended Queue
+146.Input Restricted Dequeue
+147.Output Restricted Dequeue
+148.Stacks With Array
+149.Stacks
+150.Linked Stacks
+151.Reversing A String Using Stacks
+152.Double Stacks
+153.Removing All Occurences Of A Given Value In A Stack
+154.Conversion Of Infix To Postfix Expression
+155.Evaluation Of Postfix Expression
+156.Linked List
+157.Insertion And Deletion Into A Linked List
+158.Reversing A Linked List
+159.Searching A Value In A List
+160.Maximum And Minimum Values Of Linked List
+161.Sorting Of Linked List
+162.Concatenation Of Two Linked List
+163.Sorting A Linked List Into Two List
+164.Post-User Specified And Pre-User Specified
+165.Counting Nodes In A Linked List
+166.Single Circularly Linked List
+167.Insertion Into A Sorted Linked List
+168.Counting Numbers Of Nodes In A Single Circularly Linked List
+169.Insertion And Deletion Into Single Circularly Linked List
+170.Deletion Of Duplicate Elements While Concatenating Two Linked Lists
+171.Book Information Using Linked List
+172.Sum Of Integers In A Linked List
+173.Deletion Of Last Elements
+174.Deletion Of Every Second Element
+175.Second Copy Of The List
+176.Printing Values At Positions Of Another Linked List
+177.Swapping Of Two Adjacent Elements
+178.Moving A Nodes 'N' Number Of Positions Forward
+179.New List Containing Insertion Of Two Lists
+180.Inserting Values Of One List In Another Ordered List
+181.Combining Two Ordered Lists Into A Single Orderd List
+182.Appending An Elements To The End Of List
+183.Interchage Values In Successive Odd And Successive Even Postitions
+184.Doubly Linked Lists Case 1
+185.Doubly Linked Lists Case 2
+"186.Counting Number Of Nodes, Searching Data In A Doubly Linked List"
+187.Sorting Of A Doubly Linked List
+"188.Trees,Creation,Deletion And Display"
+189.Creation And Copying Of Tree
+190.Binary Search Tree
+"191.Pre-Ordered, Inordered And Post-Ordered Traversals Of A Tree"
+192.Checking Whether Binary Tree Or Not
+193.Finding Depth Of A Tree
+194.Counting Number Of Leaves And Swapping Values Right & Left Nodes
+"195.Printing Terminal Nodes Binary Tree Using Pre-Order,In-Order,Post-Order"
